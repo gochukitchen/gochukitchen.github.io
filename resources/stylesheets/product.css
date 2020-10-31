@@ -1,0 +1,19 @@
+.prod_img{
+    width: 50%;
+    margin: 0 auto;
+}
+
+/*
+.select-wrapper+label{
+    position: relative
+
+} */
+
+option{
+    color: black
+}
+
+.homepage_icon{
+    font-size: 70px
+}
+

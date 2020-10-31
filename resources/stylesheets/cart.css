@@ -1,0 +1,17 @@
+.cart_table{
+    background-color: transparent;
+    box-shadow: none
+}
+
+hr{
+    border: .5px solid white;
+}
+
+.bordered{
+    border-bottom: 1px solid darkgrey;
+}
+
+.updateQuant {
+    width: 5rem;
+    margin: 0 auto;
+}

@@ -33,22 +33,34 @@ padding-bottom: 12px
 }
   
 
-#homepageImg{
+/* #homepageImg{
   width: 55em;
   height: 58em;
-  padding-top: 150px;
+  padding-top:150px;
+} */
+
+#homepageImg {
+  padding-top:150px;
+  width: 100%;
+  height: auto;
 }
 
-.homepageNutrition{
+/* .homepageNutrition{
   width: 42em;
   height: 25em;
   margin-top: 70px;
   margin-left: 150px
+} */
+
+.homepageNutrition {
+  width: 35%;
+  height: auto;
+  margin: 5em;
 }
 
-#fermentation{
+/* #fermentation{
   margin-left: 198px
-}
+} */
 /* #homepageLG{
   width: 55em;
   height: 45em;
